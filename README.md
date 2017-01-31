@@ -2,8 +2,8 @@
 
 Hello.
 
-Koalr is simple lightweight css color library that provide css color code for well known world's brands.
+Koalr is simple lightweight css color library that provide css color code for well known world's brands. <br/>
 It currently an Alpha version and highly not recommended for production project.
 
 
-** Tombreges
+> Tombreges.
