@@ -6,4 +6,4 @@ Koalr is simple lightweight css color library that provide css color code for we
 It currently an Alpha version and highly not recommended for production project.
 
 
-** Tombreges.
+** Tombreges
