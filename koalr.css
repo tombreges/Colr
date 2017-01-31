@@ -1,0 +1,73 @@
+/* 
+** colr.css v0.0.0 Alpha
+** Error & Support report to
+** Twitter @jiilibr
+*/
+
+/* 
+** Color code for the world's brands
+** =================================
+** code format for text color,
+** clr-[brand-name]-[color]
+** =================================
+** code format for background color,
+** clr-bg-[brand-name]-[color]
+** =================================
+*/
+
+/* 
+** for text color 
+** clr-[brand-name]-[color]
+.clr- { color: #00a98f; }
+*/
+.clr-default { color: #2d2d2d;  }
+.clr-light { color: #f8f8f8;  }
+
+/* 500px */
+.clr-500px-default { color: #0099e5; }
+.clr-500px-primary { color: #ff4c4c; }
+.clr-500px-secondary { color: #34bf49; }
+
+/* About.me */
+.clr-aboutme-default { color: #00a98f; }
+
+/* Adobe */
+.clr-adobe-default { color: #ff0000; }
+.clr-adobe-primary { color: #fbb034; }
+.clr-adobe-secondary { color: #ffdd00; }
+
+/* Apple */
+.clr-apple-default { color: #333333; }
+.clr-apple-primary { color: #ffffff; }
+
+/* Amazon */
+.clr-amazon-default { color: #ff9900; }
+.clr-amazon-primary { color: #146eb4; }
+
+
+
+/* 
+** for background color
+** clr-bg-[brand-name]-[color]
+.clr-bg- { background-color: #; }
+*/
+/* 500px */
+.clr-bg-500px-blue { background-color: #0099e5; }
+.clr-bg-500px-red { background-color: #ff4c4c; }
+.clr-bg-500px-green { background-color: #34bf49; }
+
+/* About.me */
+.clr-bg-aboutme-default { background-color: #00a98f; }
+
+/* Adobe */
+.clr-bg-adobe-red { background-color: #ff0000; }
+.clr-bg-adobe-orange { background-color: #fbb034; }
+.clr-bg-adobe-yellow { background-color: #ffdd00; }
+
+/* Apple */
+.clr-bg-apple-black { background-color: #333333; }
+.clr-bg-apple-white { background-color: #ffffff; }
+
+/* Amazon */
+.clr-bg-amazon-orange { background-color: #ff9900; }
+.clr-bg-amazon-blue { background-color: #146eb4; }
