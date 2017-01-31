@@ -1,8 +1,10 @@
+## Brands-list
+
 Brands that already on the list.
 
-500px
-About.me
-Adobe
-Apple
-Amazon
+1. 500px
+2. About.me
+3. Adobe
+4. Apple
+5. Amazon
 
