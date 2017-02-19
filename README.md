@@ -1,11 +1,11 @@
 # Cawlr
 ** version : alpha-1
-* [] asdf
+* asdf
 
 
 
 
 
-> Tombreges.
-<br>twitter: @jiilibr
-<br>website: esenji.com/studio
+** Tombreges.
+* twitter: @jiilibr
+* website: esenji.com/studio
