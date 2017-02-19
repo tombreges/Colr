@@ -6,6 +6,6 @@
 
 
 
-**Tombreges** <enter>
-[@jiilibr](https://www.twitter.com/jiilibr) <enter>
+**Tombreges** --hit
+[@jiilibr](https://www.twitter.com/jiilibr) -- hit
 [esenji.com/studio](https://www.esenji.com/studio)
