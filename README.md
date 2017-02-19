@@ -1,5 +1,5 @@
 # Cawlr
-** version : alpha-1
+**version : alpha-1**
 * asdf
 
 
@@ -7,5 +7,5 @@
 
 
 **Tombreges**
-* twitter: @jiilibr
-* website: esenji.com/studio
+*twitter: @jiilibr
+*website: esenji.com/studio
