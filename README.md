@@ -7,5 +7,5 @@
 
 
 **Tombreges**
-*twitter: @jiilibr
-*website: esenji.com/studio
+[@jiilibr](https://www.twitter.com/jiilibr)
+[website](https://www.esenji.com/studio)
